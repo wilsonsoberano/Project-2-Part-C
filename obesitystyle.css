@@ -1,0 +1,22 @@
+obesitystyle.css
+/* Set the background color of the page *
+<head>
+<style>
+body {
+  background-color: rgb(201, 36, 87);
+}
+</style>
+</head>
+<body>
+
+/* Make all paragraphs black */ 
+p { 
+color: rgb(28, 52, 71); 
+font-size: 25px; 
+} 
+/* Make the main heading white */ 
+h1 { 
+color: rgb(195, 76, 76); 
+text-align: center; 
+} 
+
